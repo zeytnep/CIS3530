@@ -1,9 +1,9 @@
-# # README for Assignment 1<br>
+  ## README for Assignment 1<br>
 # Learning Goals<br>
 1.Be able to read and understand a given relational schema and its structure.<br>
 2.Have mastered the techniques for writing relational algebra (RA) queries and basic SQL queries.<br>
 
-#Question 1 (Relational Algebra):<br>
+# Question 1 (Relational Algebra):<br>
 Write relational algebra expressions to answer the following questions:<br>
 
 a. Find all offerings of 3530.
