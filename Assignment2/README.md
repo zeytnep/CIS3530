@@ -1,6 +1,6 @@
 # README for Assignment 2 <br>
 <br>
-## Database Schema <br>
+ ## Database Schema 
 The database schema used in the assignment is as follows:<br>
 ## Part <br>
 •P# (Part Number)<br>
