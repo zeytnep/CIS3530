@@ -1,10 +1,10 @@
-README for Assignment 1
-Learning Goals
-1.Be able to read and understand a given relational schema and its structure.
-2.Have mastered the techniques for writing relational algebra (RA) queries and basic SQL queries.
+README for Assignment 1<br>
+Learning Goals<br>
+1.Be able to read and understand a given relational schema and its structure.<br>
+2.Have mastered the techniques for writing relational algebra (RA) queries and basic SQL queries.<br>
 
-Question 1 (Relational Algebra):
-Write relational algebra expressions to answer the following questions:
+Question 1 (Relational Algebra):<br>
+Write relational algebra expressions to answer the following questions:<br>
 
 a. Find all offerings of 3530.
 
@@ -26,8 +26,8 @@ i. Develop a query for this database, write its description/question in English 
 
 The file called A1Q1_erdogru_zeynep.txt that includes all the RA queries for questions 1a to 1i.
 
-Question 2 (SQL):
-Must run the attached scripts given in the 2 files coursesDDL.sql and coursesData.sql to create the tables on PostgreSQL required for this question. There are 12 queries to write for this question (a-l).
+Question 2 (SQL):<br>
+Must run the attached scripts given in the 2 files coursesDDL.sql and coursesData.sql to create the tables on PostgreSQL required for this question. There are 12 queries to write for this question (a-l).<br>
 
 a-h. Write SQL queries for question 1a-h.
 
@@ -41,8 +41,8 @@ l. Write a query that deletes all courses taught by 'Ritu'.
 
 The file called A1Q2_erdogru_zeynep.sql that includes all the SQL queries for the questions.
 
-Question 3 (SQL):
-Attached SQL file called A1Q3_create.sql and 4 CSV files (females.csv, males.csv, married_to.csv, and parent_of.csv). Run the SQL file to create 4 tables required for this question. Then, on psql prompt, run \copy command on each of the CSV files to populate the tables.
+Question 3 (SQL):<br>
+Attached SQL file called A1Q3_create.sql and 4 CSV files (females.csv, males.csv, married_to.csv, and parent_of.csv). Run the SQL file to create 4 tables required for this question. Then, on psql prompt, run \copy command on each of the CSV files to populate the tables.<br>
 
 a-f. Write SQL queries for questions 1a to 1f.
 
