@@ -1,4 +1,4 @@
-## README for Assignment 1<br>
+# # README for Assignment 1<br>
 # Learning Goals<br>
 1.Be able to read and understand a given relational schema and its structure.<br>
 2.Have mastered the techniques for writing relational algebra (RA) queries and basic SQL queries.<br>
