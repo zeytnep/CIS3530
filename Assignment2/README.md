@@ -1,8 +1,8 @@
 # README for Assignment 2 <br>
-<br>
- ## Database Schema 
+
+## Database Schema 
 The database schema used in the assignment is as follows:<br>
-## Part <br>
+## Part 
 •P# (Part Number)<br>
 •PName (Part Name)<br>
 •Producer<br>
@@ -12,7 +12,7 @@ The database schema used in the assignment is as follows:<br>
 •C# (Customer Number)<br>
 •CName (Customer Name)<br>
 City<br>
-## Supply <br>
+## Supply
 •S# (Supply Number)<br>
 •P# (Part Number)<br>
 •C# (Customer Number)<br>
